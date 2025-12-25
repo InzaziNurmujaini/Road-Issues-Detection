@@ -1,6 +1,5 @@
 # Road-Issues-Detection
 
-# Road Issues Detection System
 
 ## Deskripsi Proyek
 Proyek ini merupakan implementasi sistem klasifikasi permasalahan infrastruktur jalan
